@@ -13,6 +13,7 @@ export default {
   data() {
     return {
       isRouterAlive: true,
+      testDate: 'zhelishi git ceshi',
     };
   },
   methods: {
